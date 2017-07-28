@@ -2,6 +2,8 @@
   "name": "redux-optimistic-ui-browser-test",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": "Marcin Szczepanski <marcins@gmail.com>",
   "dependencies": {
     "classnames": "^2.2.5",
     "icepick": "^2.1.1",
